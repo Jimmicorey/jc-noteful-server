@@ -1,0 +1,4 @@
+node_modules
+.env
+postgrator-config.js
+postgrator-config-production.js
