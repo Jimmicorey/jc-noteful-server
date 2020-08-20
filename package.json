@@ -12,6 +12,9 @@
     "deploy": "git push heroku master"
   },
   "keywords": [],
+  "engines": {
+    "node": "12.18.1"
+  },
   "author": "James Coffelt",
   "license": "ISC",
   "dependencies": {
